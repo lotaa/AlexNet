@@ -13,3 +13,7 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 
 ![alt text](https://www.researchgate.net/profile/Nicola-Strisciuglio/publication/339756908/figure/fig5/AS:866265283457032@1583545146587/AlexNet-architecture-used-as-the-baseline-model-for-the-analysis-of-results-on-the.png)
+
+
+# Summary
+For first time use (RGB), Max pooling, increasing number of filters, it is First successful neural network multi-class classification, use data augmentation, and dropout to reduce over-fitting
