@@ -16,4 +16,5 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 
 # Summary
+paper titled "ImageNet Classification with deep Convolution Neural Network"
 For first time use (RGB), Max pooling, increasing number of filters, it is First successful neural network multi-class classification, use data augmentation, and dropout to reduce over-fitting
